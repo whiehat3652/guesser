@@ -1,0 +1,54 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px skyblue;
+    font-family: 'Krona One', sans-serif;
+}
+
+.heading_div
+{
+    float: none ;
+    background: linear-gradient(goldenrod,gold,yellow,gold,goldenrod);
+    padding: 5px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 10px 10px 10px white;
+    font-size: 20px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    border-color: black;
+    border-radius: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+.result_para_tag
+{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: steelblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px  rgb(252, 238, 238);
+    margin-top: 150px;
+    font-family: 'Grenze', serif;
+}
